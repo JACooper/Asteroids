@@ -2,6 +2,8 @@ A project made for an interactive media class. Remake of the classic Asteroids a
 
 NOTE: This program was developed in Processing, a specialized Java-based development tool, and requires it to run. You can download Processing for free here: https://processing.org/download/ (This project was initially developed for Processing 2, but has been updated to work with the latest version, Processing 3.)
 
+Also, please note that Processing requires project folders to have the same name as the main class; if you wish to run this, please rename the containing folder to "Asteroids" prior to opening any files.
+
 
 User Functionality: 
 	-	Users can use the up arrow key to accelerate, the left and right arrow keys to turn, the spacebar to shoot, and the down arrow key to activate hyperdrive and warp to a random screen position.
